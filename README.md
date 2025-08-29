@@ -1,24 +1,30 @@
 # tir2vjoy (c) silkysky  
- TrackIR 2 Virtual Joystick Converter (vJoy) https://github.com/silkyskyj/tir2vjoy   
-	Require:  
+ TrackIR 2 Virtual Joystick Converter (vJoy) https://github.com/silkyskyj/tir2vjoy 
+
+ Sample video of operation: https://youtu.be/Erhs9UkKw3E  
+
+ Require:  
 		1. TrackIR 5 https://www.trackir.com/trackir5/  
 		2. vJoy https://github.com/BrunnerInnovation/vJoy/releases  
 
-Usage: tir2vjoy.exe \[ID\] \[Timer\]  
- ID ... vJoy Device ID 1 - 16 (Default 1)  
- Timer ... Processing interval \[ms\] (Default 20)  
- 
+ Usage: tir2vjoy.exe \[ID\] \[Timer\]  
+  ID ... vJoy Device ID 1 - 16 (Default 1)  
+  Timer ... Processing interval \[ms\] (Default 20)  
+
  Download: Latest v2.0.1.0 https://1drv.ms/u/c/538de3d97d257b91/EUADIEQsnYNIjTfkKSzqZLEBTbdwbI0gkTqK2XA1fVfWoA?e=dlnWXV  
 
 # tir2vx360 (c) silkysky  
  TrackIR 2 Virtual Xbox Controller Converter (XInput) https://github.com/silkyskyj/tir2vjoy   
-	Require:   
+ 
+ Sample video of operation: https://youtu.be/NUd6JMkqy4o  
+ 
+ Require:   
  		1. TrackIR 5 https://www.trackir.com/trackir5/  
 		2. ViGEmBus https://github.com/nefarius/ViGEmBus/releases  
 
-Usage: tir2vx360.exe \[ID\] \[Timer\]  
- ID ... Xbox Controller Device ID 0 - 3 (Default 0)  
- Timer ... Processing interval \[ms\] (Default 20)  
+ Usage: tir2vx360.exe \[ID\] \[Timer\]  
+  ID ... Xbox Controller Device ID 0 - 3 (Default 0)  
+  Timer ... Processing interval \[ms\] (Default 20)  
  
  Download: Latest v2.0.1.0 https://1drv.ms/u/c/538de3d97d257b91/EU2Kfx6EdUFEsA6_vsYTBDUBBLQtp_tsKZUnV-3gQHelvA?e=UX4hFq  
 
