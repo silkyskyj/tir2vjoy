@@ -1,8 +1,18 @@
 # tir2vjoy
- TrackIR 2 Virtual Joystick Converter (vJoy)
+ TrackIR 2 Virtual Joystick Converter (vJoy) https://github.com/silkyskyj/tir2vjoy
+	Require: 
+		1. TrackIR 5 https://www.trackir.com/trackir5/
+		2. vJoy https://github.com/BrunnerInnovation/vJoy/releases 
+
+ Download: Latest v2.0.1.0 https://1drv.ms/u/c/538de3d97d257b91/EUADIEQsnYNIjTfkKSzqZLEBTbdwbI0gkTqK2XA1fVfWoA?e=dlnWXV
 
 # tir2vx360
- TrackIR 2 Virtual Xbox Controller Converter (XInput)
+ TrackIR 2 Virtual Xbox Controller Converter (XInput) https://github.com/silkyskyj/tir2vx360
+	Require: 
+ 		1. TrackIR 5 https://www.trackir.com/trackir5/
+		2. ViGEmBus https://github.com/nefarius/ViGEmBus/releases
+
+ Download: Latest v2.0.1.0 https://1drv.ms/u/c/538de3d97d257b91/EU2Kfx6EdUFEsA6_vsYTBDUBBLQtp_tsKZUnV-3gQHelvA?e=UX4hFq
 
 # tir2joy
 
