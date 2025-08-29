@@ -1,6 +1,3 @@
-There have been many similar software programs available for some time.
-I haven't actually measured or compared them, but I think this software is on the shorter side in terms of response time (low latency). *This is purely theoretical.
-
 # tir2vjoy (c) silkysky  
  TrackIR 2 Virtual Joystick Converter (vJoy) https://github.com/silkyskyj/tir2vjoy   
 	Require:  
@@ -14,6 +11,9 @@ I haven't actually measured or compared them, but I think this software is on th
 	Require:   
  		1. TrackIR 5 https://www.trackir.com/trackir5/  
 		2. ViGEmBus https://github.com/nefarius/ViGEmBus/releases  
+
+There have been many similar software programs available for some time.
+I haven't actually measured or compared them, but I think this software is on the shorter side in terms of response time (low latency). *This is purely theoretical.
 
  Download: Latest v2.0.1.0 https://1drv.ms/u/c/538de3d97d257b91/EU2Kfx6EdUFEsA6_vsYTBDUBBLQtp_tsKZUnV-3gQHelvA?e=UX4hFq  
 
