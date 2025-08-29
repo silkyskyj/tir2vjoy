@@ -15,6 +15,8 @@ Note: Some of the vJoy installation processes listed above may enable the OS's t
 
 How to disable test mode in Windows 10 when it is protected by secure boot policy?  
 https://learn.microsoft.com/en-us/answers/questions/4233514/how-to-disable-test-mode-in-windows-10-when-it-is  
+Removing the Test Mode Watermark From the Windows 10 Desktop  
+https://www.dell.com/support/kbdoc/en-al/000190354/removing-the-test-mode-watermark-from-the-windows-10-desktop  
 
  Usage: tir2vjoy.exe \[ID\] \[Timer\]  
   ID ... vJoy Device ID 1 - 16 (Default 1)  
