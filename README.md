@@ -19,7 +19,7 @@ Usage: tir2vjoy.exe \[ID\] \[Timer\]
 There have been many similar software programs available for some time.
 I haven't actually measured or compared them, but I think this software is on the shorter side in terms of response time (low latency). *This is purely theoretical.
 
-usage: tir2vx360.exe \[ID\] \[Timer\]  
+Usage: tir2vx360.exe \[ID\] \[Timer\]  
  ID ... Xbox Controller Device ID 0 - 3 (Default 0)  
  Timer ... Processing interval \[ms\] (Default 20)  
  
