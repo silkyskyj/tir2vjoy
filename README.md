@@ -1,3 +1,6 @@
+There have been many similar software programs available for some time.
+I haven't actually measured or compared them, but I think this software is on the shorter side in terms of response time (low latency). *This is purely theoretical.
+
 # tir2vjoy (c) silkysky  
  TrackIR 2 Virtual Joystick Converter (vJoy) https://github.com/silkyskyj/tir2vjoy   
 	Require:  
