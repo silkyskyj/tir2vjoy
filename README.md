@@ -11,10 +11,10 @@ https://github.com/jshafer817/vJoy/releases
 https://github.com/njz3/vJoy/releases/  
 https://sourceforge.net/projects/vjoystick/  
 
-Note: Some of the vJoy installation processes listed above may enable the OS's test mode. Please refer to the following page to disable this setting.　　
+Note: Some of the vJoy installation processes listed above may enable the OS's test mode. Please refer to the following page to disable this setting.  
 
-How to disable test mode in Windows 10 when it is protected by secure boot policy?　　
-https://learn.microsoft.com/en-us/answers/questions/4233514/how-to-disable-test-mode-in-windows-10-when-it-is　　
+How to disable test mode in Windows 10 when it is protected by secure boot policy?  
+https://learn.microsoft.com/en-us/answers/questions/4233514/how-to-disable-test-mode-in-windows-10-when-it-is  
 
  Usage: tir2vjoy.exe \[ID\] \[Timer\]  
   ID ... vJoy Device ID 1 - 16 (Default 1)  
