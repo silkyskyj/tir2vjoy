@@ -21,7 +21,7 @@ As I no longer support the project, I have been asked to release the source code
 
 This repository includes all original project files. The original [readme.html](readme.html) is included.
 
-The referenced vJoy project can also be found on [Github](https://github.com/BrunnerInnovation/vJoy).
+The referenced PPJoy project can also be found on [Github](https://github.com/elitak/PPJoy).
 
 ## What is it?
 
