@@ -1,4 +1,10 @@
 # tir2vjoy
+ TrackIR 2 Virtual Joystick Converter (vJoy)
+
+# tir2vx360
+ TrackIR 2 Virtual Xbox Controller Converter (XInput)
+
+# tir2joy
 
 This is an old project of mine which I understand is still being used here and there. 
 As I no longer support the project, I have been asked to release the source code.
