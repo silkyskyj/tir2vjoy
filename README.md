@@ -4,6 +4,10 @@
 		1. TrackIR 5 https://www.trackir.com/trackir5/  
 		2. vJoy https://github.com/BrunnerInnovation/vJoy/releases  
 
+Usage: tir2vjoy.exe \[ID\] \[Timer\]  
+ ID ... vJoy ID 1 - 16 (Default 1)  
+ Timer ... Processing interval \[ms\] (Default 20)  
+ 
  Download: Latest v2.0.1.0 https://1drv.ms/u/c/538de3d97d257b91/EUADIEQsnYNIjTfkKSzqZLEBTbdwbI0gkTqK2XA1fVfWoA?e=dlnWXV  
 
 # tir2vx360 (c) silkysky  
@@ -15,6 +19,10 @@
 There have been many similar software programs available for some time.
 I haven't actually measured or compared them, but I think this software is on the shorter side in terms of response time (low latency). *This is purely theoretical.
 
+usage: tir2vx360.exe \[ID\] \[Timer\]  
+ ID ... Xbox ID 0 - 3 (Default 0)  
+ Timer ... Processing interval \[ms\] (Default 20)  
+ 
  Download: Latest v2.0.1.0 https://1drv.ms/u/c/538de3d97d257b91/EU2Kfx6EdUFEsA6_vsYTBDUBBLQtp_tsKZUnV-3gQHelvA?e=UX4hFq  
 
 # tir2joy
