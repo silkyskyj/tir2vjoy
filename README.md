@@ -36,6 +36,4 @@ If someone is willing to take over this project, please feel free to do so.
 
 ## License
 
-This project is licensed under the AGPL License - see the [LICENSE](LICENSE) file for details.
-
 Original project [tir2joy] is licensed under the MIT Software License - see the [LICENSE](LICENSE) file for details.
