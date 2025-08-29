@@ -1,6 +1,11 @@
 MIT License
 
 Copyright (c) 2003 Peter Dikant
+Copyright (c) 2025 silkysky
+
+This software includes modifications made by silkysky to the original software licensed under the MIT License. 
+Modified portions of this software are changed the virtual joystick used from PPJoy 
+to vJoy(tir2vjoy)/ViGEmBus(tir2vx360), and removing the parts related to DirectInput.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

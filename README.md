@@ -1,8 +1,18 @@
 # tir2vjoy
- TrackIR 2 Virtual Joystick Converter (vJoy)
+ TrackIR 2 Virtual Joystick Converter (vJoy) https://github.com/silkyskyj/tir2vjoy
+	Require: 
+		1. TrackIR 5 https://www.trackir.com/trackir5/
+		2. vJoy https://github.com/BrunnerInnovation/vJoy/releases 
+
+ Download: Latest v2.0.1.0 https://1drv.ms/u/c/538de3d97d257b91/EUADIEQsnYNIjTfkKSzqZLEBTbdwbI0gkTqK2XA1fVfWoA?e=dlnWXV
 
 # tir2vx360
- TrackIR 2 Virtual Xbox Controller Converter (XInput)
+ TrackIR 2 Virtual Xbox Controller Converter (XInput) https://github.com/silkyskyj/tir2vx360
+	Require: 
+ 		1. TrackIR 5 https://www.trackir.com/trackir5/
+		2. ViGEmBus https://github.com/nefarius/ViGEmBus/releases
+
+ Download: Latest v2.0.1.0 https://1drv.ms/u/c/538de3d97d257b91/EU2Kfx6EdUFEsA6_vsYTBDUBBLQtp_tsKZUnV-3gQHelvA?e=UX4hFq
 
 # tir2joy
 
@@ -11,11 +21,11 @@ As I no longer support the project, I have been asked to release the source code
 
 This repository includes all original project files. The original [readme.html](readme.html) is included.
 
-The referenced PPJoy project can also be found on [Github](https://github.com/elitak/PPJoy).
+The referenced vJoy project can also be found on [Github](https://github.com/BrunnerInnovation/vJoy).
 
 ## What is it?
 
-PPjoy is a tool that can map [TrackIR](https://www.trackir.eu) head movements to movements of a virtual joystick.
+vJoy is a tool that can map [TrackIR](https://www.trackir.eu) head movements to movements of a virtual joystick.
 It can be used to control games via head movements that don't work directly with a TrackIR device.
 
 ## Where can I get support?
@@ -26,4 +36,6 @@ If someone is willing to take over this project, please feel free to do so.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the AGPL License - see the [LICENSE](LICENSE) file for details.
+
+Original project [tir2joy] is licensed under the MIT Software License - see the [LICENSE](LICENSE) file for details.

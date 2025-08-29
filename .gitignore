@@ -2,7 +2,8 @@
 # この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
 ################################################################################
 
+/Debug
 /.vs/tir2vjoy
 /Debug
 /tir2vjoy.aps
-*.json
+/.vs/VSWorkspaceState.json

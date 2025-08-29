@@ -1,6 +1,6 @@
 //{{NO_DEPENDENCIES}}
-// Microsoft Developer Studio generated include file.
-// Used by mouse.rc
+// Microsoft Visual C++ で生成されたインクルード ファイル。
+// tir2vjoy.rc で使用
 //
 #define IDI_MAIN                        102
 #define IDD_MOUSE                       102
