@@ -1,3 +1,7 @@
+1. TrackIR 2 Virtual Joystick Converter (vJoy)  
+2. TrackIR 2 Virtual Xbox Controller Converter (XInput)  
+3. TrackIR 2 Virtual Mouse Converter  
+
 # tir2vjoy (c) silkysky  
  TrackIR 2 Virtual Joystick Converter (vJoy) https://github.com/silkyskyj/tir2vjoy 
 
@@ -38,6 +42,19 @@ https://www.dell.com/support/kbdoc/en-al/000190354/removing-the-test-mode-waterm
   Timer ... Processing interval \[ms\] (Default 20)  
  
  Download: Latest v2.0.1.0 https://1drv.ms/u/c/538de3d97d257b91/EU2Kfx6EdUFEsA6_vsYTBDUBBLQtp_tsKZUnV-3gQHelvA?e=UX4hFq  
+
+# tir2vmouse (c) silkysky  
+ TrackIR 2 Virtual Mouse Converter https://github.com/silkyskyj/tir2vjoy   
+ 
+ Sample video of operation: https://youtu.be/suzJyNXR_2I  
+ 
+ Require:   
+ 		1. TrackIR 5 https://www.trackir.com/trackir5/  
+
+ Usage: tir2vmouse \[Timer\]  
+  Timer ... Processing interval \[ms\] (Default 20)  
+ 
+ Download: Latest v2.0.1.0 https://1drv.ms/u/c/538de3d97d257b91/EWWxyUFyorBEtI1dBYAS67YB57OkSgmHEJnFoNsXFe8wtw?e=hKvmf0
 
 # tir2joy
 
