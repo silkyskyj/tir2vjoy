@@ -1,11 +1,11 @@
-1. TrackIR 2 Virtual Joystick Converter (vJoy)  
-2. TrackIR 2 Virtual Xbox Controller Converter (XInput)  
-3. TrackIR 2 Virtual Mouse Converter  
+1. TrackIR to Virtual Joystick Converter (vJoy)  
+2. TrackIR to Virtual Xbox Controller Converter (XInput)  
+3. TrackIR to Virtual Mouse Converter  
 
 Note: Currently, only the executable file and Readme are distributed.
 
 # tir2vjoy (c) silkysky  
- TrackIR 2 Virtual Joystick Converter (vJoy) https://github.com/silkyskyj/tir2vjoy 
+ TrackIR to Virtual Joystick Converter (vJoy) https://github.com/silkyskyj/tir2vjoy 
 
  Sample video of operation: https://youtu.be/Erhs9UkKw3E  
 
@@ -31,7 +31,7 @@ https://www.dell.com/support/kbdoc/en-al/000190354/removing-the-test-mode-waterm
  Download: Latest v2.0.1.0 https://1drv.ms/u/c/538de3d97d257b91/EUADIEQsnYNIjTfkKSzqZLEBTbdwbI0gkTqK2XA1fVfWoA?e=dlnWXV  
 
 # tir2vx360 (c) silkysky  
- TrackIR 2 Virtual Xbox Controller Converter (XInput) https://github.com/silkyskyj/tir2vjoy   
+ TrackIR to Virtual Xbox Controller Converter (XInput) https://github.com/silkyskyj/tir2vjoy   
  
  Sample video of operation: https://youtu.be/NUd6JMkqy4o  
  
@@ -46,7 +46,7 @@ https://www.dell.com/support/kbdoc/en-al/000190354/removing-the-test-mode-waterm
  Download: Latest v2.0.1.0 https://1drv.ms/u/c/538de3d97d257b91/EU2Kfx6EdUFEsA6_vsYTBDUBBLQtp_tsKZUnV-3gQHelvA?e=UX4hFq  
 
 # tir2vmouse (c) silkysky  
- TrackIR 2 Virtual Mouse Converter https://github.com/silkyskyj/tir2vjoy   
+ TrackIR to Virtual Mouse Converter https://github.com/silkyskyj/tir2vjoy   
  
  Sample video of operation: https://youtu.be/suzJyNXR_2I  
  
