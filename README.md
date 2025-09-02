@@ -2,6 +2,8 @@
 2. TrackIR 2 Virtual Xbox Controller Converter (XInput)  
 3. TrackIR 2 Virtual Mouse Converter  
 
+Note: Currently, only the executable file and Readme are distributed.
+
 # tir2vjoy (c) silkysky  
  TrackIR 2 Virtual Joystick Converter (vJoy) https://github.com/silkyskyj/tir2vjoy 
 
