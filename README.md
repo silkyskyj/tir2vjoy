@@ -53,6 +53,8 @@ https://www.dell.com/support/kbdoc/en-al/000190354/removing-the-test-mode-waterm
 
  Usage: tir2vmouse \[Timer\]  
   Timer ... Processing interval \[ms\] (Default 20)  
+
+ Note: Unlike the TIRMouse that comes with TrackIR5, it can be used in an inactive window. To avoid mouse control conflicts, use the F9 key to enable/disable TrackIR data transmission and reception on a case-by-case basis.   
  
  Download: Latest v2.0.1.0 https://1drv.ms/u/c/538de3d97d257b91/EWWxyUFyorBEtI1dBYAS67YB57OkSgmHEJnFoNsXFe8wtw?e=hKvmf0
 
