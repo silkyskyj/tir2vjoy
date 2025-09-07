@@ -24,7 +24,7 @@ https://learn.microsoft.com/en-us/answers/questions/4233514/how-to-disable-test-
 Removing the Test Mode Watermark From the Windows 10 Desktop  
 https://www.dell.com/support/kbdoc/en-al/000190354/removing-the-test-mode-watermark-from-the-windows-10-desktop  
 
- Usage: tir2vjoy.exe \[ID\] \[Timer\]  
+ Usage\: tir2vjoy.exe \[ID\] \[Timer\]  
   ID ... vJoy Device ID 1 - 16 (Default 1)  
   Timer ... Processing interval \[ms\] (Default 20)  
 
@@ -39,7 +39,7 @@ https://www.dell.com/support/kbdoc/en-al/000190354/removing-the-test-mode-waterm
  		1. TrackIR 5 https://www.trackir.com/trackir5/  
 		2. ViGEmBus https://github.com/nefarius/ViGEmBus/releases  
 
- Usage: tir2vx360.exe \[ID\] \[Timer\]  
+ Usage\: tir2vx360.exe \[ID\] \[Timer\]  
   ID ... Xbox Controller Device ID 0 - 3 (Default 0)  
   Timer ... Processing interval \[ms\] (Default 20)  
  
@@ -53,7 +53,7 @@ https://www.dell.com/support/kbdoc/en-al/000190354/removing-the-test-mode-waterm
  Require:   
  		1. TrackIR 5 https://www.trackir.com/trackir5/  
 
- Usage: tir2vmouse \[Timer\]  
+ Usage\: tir2vmouse \[Timer\]  
   Timer ... Processing interval \[ms\] (Default 20)  
 
  Note: Unlike the TIRMouse that comes with TrackIR5, it can be used in an inactive window. To avoid mouse control conflicts, use the F9 key to enable/disable TrackIR data transmission and reception on a case-by-case basis.   
