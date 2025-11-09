@@ -46,7 +46,7 @@ https://www.dell.com/support/kbdoc/en-al/000190354/removing-the-test-mode-waterm
  
  Download: Latest v2.0.1.0 https://1drv.ms/u/c/538de3d97d257b91/EU2Kfx6EdUFEsA6_vsYTBDUBBLQtp_tsKZUnV-3gQHelvA?e=UX4hFq  
 
-# tirps4 (c) silkysky  
+# tirvps4 (c) silkysky  
  TrackIR to Virtual DualShock 4 Controller Converter (XInput) https://github.com/silkyskyj/tir2vjoy   
  
  Sample video of operation: -
