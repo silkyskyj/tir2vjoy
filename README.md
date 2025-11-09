@@ -1,6 +1,7 @@
 1. TrackIR to Virtual Joystick Converter (vJoy)  
 2. TrackIR to Virtual Xbox Controller Converter (XInput)  
-3. TrackIR to Virtual Mouse Converter  
+3. TrackIR to Virtual DualShock 4 Controller Converter (XInput)  
+4. TrackIR to Virtual Mouse Converter  
 
 Note: Currently, only the executable file and Readme are distributed.
 
@@ -44,6 +45,21 @@ https://www.dell.com/support/kbdoc/en-al/000190354/removing-the-test-mode-waterm
   Timer ... Processing interval \[ms\] (Default 20)  
  
  Download: Latest v2.0.1.0 https://1drv.ms/u/c/538de3d97d257b91/EU2Kfx6EdUFEsA6_vsYTBDUBBLQtp_tsKZUnV-3gQHelvA?e=UX4hFq  
+
+# tirps4 (c) silkysky  
+ TrackIR to Virtual DualShock 4 Controller Converter (XInput) https://github.com/silkyskyj/tir2vjoy   
+ 
+ Sample video of operation: -
+ 
+ Require:   
+ 		1. TrackIR 5 https://www.trackir.com/trackir5/  
+		2. ViGEmBus https://github.com/nefarius/ViGEmBus/releases  
+
+ Usage\: tir2vps4.exe \[ID\] \[Timer\]  
+  ID ... Xbox Controller Device ID 0 - 3 (Default 0)  
+  Timer ... Processing interval \[ms\] (Default 20)  
+ 
+ Download: Latest v2.0.1.0 https://1drv.ms/u/c/538de3d97d257b91/EeGRT18-TgxGjgDedGis5k4BSu6J2MRF7ua0-XBQasEI3g?e=VwkKdJ
 
 # tir2vmouse (c) silkysky  
  TrackIR to Virtual Mouse Converter https://github.com/silkyskyj/tir2vjoy   
